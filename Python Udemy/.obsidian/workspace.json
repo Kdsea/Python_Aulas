@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "ab8b1462fff43c51",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce2fd8846a3164f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20e0a2ff9c861e8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d46f55769170249",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eefc1f5ef3fb3e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f8e0d2e74b9e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "ea913a00b49400f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "f8f6c76eb893acca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0fdc6d18cd5d43d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4599a9ec685796de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c21a470e59ddc72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Python"
+            }
+          },
+          {
+            "id": "3bb178d36c62a5fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Python.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Python"
+            }
+          },
+          {
+            "id": "375f1819393914e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12159e6f0e742b98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Python.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Python"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "20e0a2ff9c861e8f",
+  "lastOpenFiles": [
+    "Python/Blocos de Codigo/if, elif e else entendendo o fluxo do interpretador em condicionais.md",
+    "Python/Blocos de Codigo/Introdução aos blocos de código + if,  elif,  else (condicionais).md",
+    "Python/Coletar Dados do Usuáio/Usando a função input para coletar dados do usuário.md",
+    "Python/Variáveis/Variáveis Fundamentos.md",
+    "Python/Variáveis/Exercicio Resolvido.md",
+    "Python/Formatação de Strings/Formatação de strings com o método format.md",
+    "Python/Formatação de Strings/Uma introdução às f-strings (formatação de strings).md",
+    "Python/Introdução a tipos de dados/Introdução a tipos de dados.md",
+    "Python/Introdução a tipos de dados/Tipos Boolean.md",
+    "Python/Operadores/Exercicio Calculo de IMC.md",
+    "Python/Operadores/Precedência entre os Operadores Aritméticos.md",
+    "Python/Operadores/Concatenação de Strings Com Operadores.md",
+    "Python/Operadores/Operadores Aritimeticos.md",
+    "Python/Blocos de Codigo",
+    "Sem título",
+    "Python/Função Print.md",
+    "Python/Coletar Dados do Usuáio",
+    "Python/Coletar Dados do Usuário.md",
+    "Python/Comentário de Código.md",
+    "Python/Formatação de Strings",
+    "Python/Introdução a tipos de dados/Conversão de Tipos.md",
+    "Sem título.md",
+    "Python/Introdução a tipos de dados/Tipos Int e Float.md",
+    "Python Sumário.md",
+    "Python/Python.md",
+    "Operadores.md",
+    "Python/Operadores",
+    "Python Fundamentos/Sem título.md",
+    "Python/Variáveis",
+    "Python/Introdução a tipos de dados",
+    "Introdução a tipos de dados",
+    "Python.md",
+    "Python"
+  ]
+}
