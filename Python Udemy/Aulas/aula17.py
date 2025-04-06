@@ -1,15 +1,15 @@
 # if / elif       / else
 # se / se não se / se não
-condicao = False
-condicao1= False
-condicao2= False
-condicao3= False
-condicao4= False
 
 #as condições serao testadas na ordem em que foram escritas
 #se a primeira for verdadeira, as demais nao serao testadas
 #se a primeira for falsa, a segunda sera testada e assim por diante
 #se nenhuma for verdadeira, o else sera executado
+
+condicao1 = False
+condicao2 = False
+condicao3 = True
+condicao4 = True
 
 if condicao1:
     print('Este é o codigo do if')
